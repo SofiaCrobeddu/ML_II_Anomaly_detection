@@ -6,7 +6,6 @@ Personal information:
 | NAME and SURNAME | HOME-UNIVERSITY EMAIL |
 | --- | --- |
 | Sofia Noemi Crobeddu | crobeddu.2130389@studenti.uniroma1.it |
-| --- | --- |
 | Sarker Modan Mohan| modan.mohan-sarker@etu.u-pec.fr |
 
 ## PURPOSE
