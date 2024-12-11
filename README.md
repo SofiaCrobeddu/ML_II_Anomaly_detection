@@ -13,7 +13,7 @@ Personal information:
 The aim of this project was to implement a ***LSTM autoencoder*** model for ***Anomaly detection***. The programming language used is Python.
 The dataset used is taken from Gecco challenge 2018 at the following link: https://www.spotseven.de/gecco/gecco-challenge/gecco-challenge-2018/.
 
-## REPOSITORIES
+## REPOSITORY AND FILES
 
 The repositories and the files are:
 - **ResourcePackage2018/ResourcePackage**: it contains the code and other files belonging to the repository of the official website of Gecco challenge 2018. The file with data is `waterDataTraining.RDS`.
